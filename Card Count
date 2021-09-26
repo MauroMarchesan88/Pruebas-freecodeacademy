@@ -9,16 +9,19 @@ function cc(card) {
     case "A":
     case 10:
       return count -1
+      break;
     case 2:
     case 3:
     case 4:
     case 5:
     case 6:
       return count +1
+      break;
     case 7:
     case 8:
     case 9:
       return count
+      break;
   }
 
   if(count < 0)  {
