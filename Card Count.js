@@ -1,4 +1,3 @@
-*.js linguist-detectable=true
 var count = 0;
 
 function cc(card) {
