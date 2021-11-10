@@ -1,2 +1,2 @@
-# Pruebas-freecodeacademy
-Pruebas de FCA
+# Pruebas-freecodecamp
+Pruebas de FCC
